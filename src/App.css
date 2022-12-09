@@ -54,11 +54,11 @@ section.pricing {
 display: inline;
 }
 
-.container{
+/* .container{
   display: grid;
   grid-template-columns: repeat(3,1fr);
   background-color: aliceblue;
-}
+} */
 
 
 /* Hover Effects on Card */
